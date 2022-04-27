@@ -1,0 +1,8 @@
+{
+  "project": [
+    {
+      "name": "zxShell"
+    }
+  ],
+  "cmd": "npm i @polyv/interactions-launch-sdk-ui-default@0.0.0-feature-condition-lottery.5\n"
+}
